@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String helloController() {
-        return "hello springboot3";
+        return "hello springboot322";
     }
 
 }
