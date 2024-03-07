@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String helloController() {
-        return "hello push";
+        return "hello pull";
     }
 
 }
